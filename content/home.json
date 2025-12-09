@@ -1,0 +1,91 @@
+{
+  "title": "Navin Nair",
+  "sections": [
+    {
+      "type": "about",
+      "heading": "About Me",
+      "content": "Senior technology executive driving digital transformation, AI innovation, and engineering excellence across global markets. Proven track record in P&L management, strategic planning, and scaling high-performance engineering teams."
+    },
+    {
+      "type": "list",
+      "heading": "Current Focus",
+      "items": [
+        {
+          "text": "Heading the digital practice at",
+          "link": { "text": "Mindsprint", "url": "https://www.mindsprint.org" },
+          "suffix": "- building digital, customer experience & data platforms"
+        },
+        {
+          "text": "Driving",
+          "highlights": ["AI/GenAI/Agentic AI"],
+          "suffix": "initiatives and leading",
+          "highlights2": ["Future Forward Labs"],
+          "suffix2": "for core IPs & Accelerators"
+        },
+        {
+          "text": "Digital offerings:",
+          "highlights": ["Application Modernisation", "Agentic AI", "Rapid Engineering Pods"]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Key Highlights",
+      "items": [
+        "Built and scaled large engineering organizations across digital, data & AI",
+        {
+          "text": "Architected enterprise-wide technology strategies for",
+          "highlights": ["Insurance", "Oil & Gas", "Utilities", "Retail"],
+          "suffix": "sectors"
+        },
+        "Leveraged GenAI to significantly accelerate application modernization for customers"
+      ]
+    },
+    {
+      "type": "skills",
+      "heading": "Technical Expertise",
+      "skills": [
+        "Java",
+        "TypeScript",
+        "Python",
+        "React Native",
+        "NestJS",
+        "GraphQL",
+        "REST APIs",
+        "Microservices",
+        "Event Driven Architecture",
+        "AWS",
+        "Kubernetes",
+        "Apache Spark",
+        "Kafka",
+        "Airflow",
+        "GenAI/LLMs",
+        "Agentic AI"
+      ]
+    },
+    {
+      "type": "competencies",
+      "heading": "Core Competencies",
+      "items": [
+        "Technology Advisory",
+        "Strategic Planning",
+        "Stakeholder Management",
+        "Partnership Management",
+        "Budget Management",
+        "Cross-functional Leadership",
+        "Engineering Excellence",
+        "Agile/DevOps Practices",
+        "Innovation Strategy"
+      ]
+    },
+    {
+      "type": "connect",
+      "heading": "Connect With Me",
+      "links": [
+        { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/nairnavin/" },
+        { "platform": "GitHub", "url": "https://github.com/nairnavin" },
+        { "platform": "Medium", "url": "https://medium.com/@nairnavin" }
+      ]
+    }
+  ]
+}

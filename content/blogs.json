@@ -1,0 +1,47 @@
+{
+  "title": "Blogs & Articles",
+  "intro": "I write about technology, engineering practices, AI/ML, and my experiences in the software industry.",
+  "featuredLink": {
+    "url": "https://medium.com/@nairnavin",
+    "title": "Read my articles on Medium",
+    "description": "Topics include AI/GenAI, Software Architecture, Engineering Practices, Cloud Technologies, and more."
+  },
+  "topics": {
+    "heading": "Topics I Write About",
+    "items": [
+      {
+        "category": "AI & GenAI",
+        "description": "Practical applications of AI in enterprise, Agentic AI patterns, LLM applications"
+      },
+      {
+        "category": "Software Architecture",
+        "description": "Microservices, Event-Driven Architecture, Domain-Driven Design"
+      },
+      {
+        "category": "Engineering Practices",
+        "description": "DevOps, CI/CD, Observability, Security"
+      },
+      {
+        "category": "Cloud & Infrastructure",
+        "description": "AWS, Kubernetes, Service Mesh, Infrastructure as Code"
+      },
+      {
+        "category": "Leadership",
+        "description": "Building and scaling engineering teams, Technology strategy"
+      }
+    ]
+  },
+  "speakingTopics": {
+    "heading": "Recent Speaking Topics",
+    "items": [
+      { "event": "GIDS 2023", "topic": "Observability in Modern Systems" },
+      { "event": "Worqference 2024", "topic": "GenAI in Enterprise" },
+      { "event": "Nasscom 2025", "topic": "Agentic AI - The Next Frontier" }
+    ]
+  },
+  "footer": {
+    "text": "Follow me on",
+    "link": { "text": "Medium", "url": "https://medium.com/@nairnavin" },
+    "suffix": "for the latest articles."
+  }
+}
