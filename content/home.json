@@ -4,7 +4,7 @@
     {
       "type": "about",
       "heading": "About Me",
-      "content": "Seasoned technology leader with over 20 years of experience driving technological innovation and leading cross-functional teams in multinational environments. Skilled at overseeing the entire lifecycle of software engagements, from tech consulting & strategy to defining evolutionary architecture & engineering excellence. Proven track record in managing P&L responsibilities, having successfully built and scaled industry and technology practices."
+      "content": "Senior technology executive with 25+ years experience driving digital transformation, AI innovation, building digital products/solutions, scaling large engineering teams and engineering excellence across global markets. Multi-faceted experience driving technology delivery & advisory, architecting digital solutions, building alliances, managing competencies, hiring and nurturing talent, go-to-market initiatives and growing revenues."
     },
     {
       "type": "list",
@@ -20,11 +20,11 @@
           "highlights": ["AI/GenAI/Agentic AI"],
           "suffix": "initiatives and leading",
           "highlights2": ["Future Forward Labs"],
-          "suffix2": "for core IPs & Accelerators"
+          "suffix2": "for core IPs & Accelerators around S2P, AP, Infosec, CTRM, Software Engineering"
         },
         {
           "text": "Digital offerings:",
-          "highlights": ["Application Modernisation", "Agentic AI", "Rapid Engineering Pods"]
+          "highlights": ["Application Modernisation", "Agentic AI", "Rapid Engineering Pods", "MES Platform"]
         }
       ]
     },
@@ -34,11 +34,16 @@
       "items": [
         "Built and scaled large engineering organizations across digital, data & AI",
         {
+          "text": "Leveraged GenAI/Agentic AI to",
+          "highlights": ["reduce time to build & modernize software by 40%"],
+          "suffix": "for multiple customer projects"
+        },
+        {
           "text": "Architected enterprise-wide technology strategies for",
-          "highlights": ["Insurance", "Oil & Gas", "Utilities", "Retail"],
+          "highlights": ["Insurance", "Oil & Gas", "Utilities", "Retail", "Manufacturing", "Telecom", "Agritech"],
           "suffix": "sectors"
         },
-        "Leveraged GenAI to significantly accelerate application modernization for customers"
+        "Drove large digital transformation engagement for one of India's largest Life Insurance Providers at Thoughtworks"
       ]
     },
     {
@@ -48,19 +53,23 @@
         "Java",
         "TypeScript",
         "Python",
-        "React Native",
+"React Native",
         "NestJS",
         "GraphQL",
         "REST APIs",
         "Microservices",
         "Event Driven Architecture",
+        "Service Mesh",
         "AWS",
+        "Azure",
         "Kubernetes",
         "Apache Spark",
         "Kafka",
         "Airflow",
+        "IOT/MQTT",
         "GenAI/LLMs",
-        "Agentic AI"
+        "Agentic AI",
+        "DevSecOps"
       ]
     },
     {

@@ -9,66 +9,96 @@
         "location": "Bengaluru, India",
         "role": "Vice President, Digital Engineering and AI",
         "highlights": [
-          "Solving interesting problems at the intersection of Agentic AI and Platform Engineering",
-          "Leading the product engineering teams across digital platforms and customer experience",
-          "Passionate about leveraging AI to solve business problems and reducing time to value"
+          "Heading the digital practice responsible for building digital, customer experience & data platforms and driving multiple AI/GenAI/Agentic AI initiatives",
+          "Driving multiple initiatives to **improve engineering maturity** of the delivery team, implementing metrics driven approaches to improve engineering quality",
+          "Leading **Future Forward Labs** (Mindsprint's innovation engine) responsible for building core IPs & Accelerators around S2P, AP, Infosec, CTRM, Software Engineering and **embedding agentic AI**",
+          "Driving Digital Offerings, Delivery and GTM Initiatives around **Application Modernisation, Agentic AI, Rapid Engineering Pods** using FDEs and MES Platform"
         ]
       },
       {
         "company": "Thoughtworks",
-        "period": "Jan 2021 - Apr 2025",
+        "period": "Jan 2024 - Mar 2025",
         "location": "Bengaluru, India",
-        "role": "Head of Enterprise Modernisation (India & Middle-East)",
+        "role": "Technology Partner & Head of Enterprise Modernisation (India & Middle-East)",
         "highlights": [
-          "Spearheaded enterprise modernisation initiatives across India and Middle East, focusing on app/product & AI security, GenAI assisted app modernisation, and digital solution architecture",
-          "Responsible for driving technology consulting & delivery initiatives with customers in SEA market",
-          "Built data platforms and messaging systems, consulting customers on enterprise architecture",
-          "Delivered high-impact projects leveraging AWS, HashiCorp's Nomad, Consul, Vault, and Kafka for event-driven architecture",
-          "Contributed to cultivation and technical mentorship in service mesh using Istio/Nomad/Consul and generative AI"
+          "Technology partner for **one of India's largest Life Insurance Providers** in their transformation journey, setting up technology foundations for the new decadal architecture",
+          "Built multiple initiatives around enterprise modernisation including **security offerings, modernisation POVs, GenAI Assisted App Modernisation**",
+          "Driven partnerships, assessments, and solution activities for multiple customer engagements focused on Application Modernisation"
         ]
       },
       {
-        "company": "Wipro",
-        "period": "Jun 2016 - Dec 2020",
+        "company": "Thoughtworks",
+        "period": "Jan 2021 - Dec 2023",
         "location": "Bengaluru, India",
-        "role": "Head of Data Engineering and Innovation",
+        "role": "Market Technology Partner & Tech Principal (South East Asia)",
         "highlights": [
-          "Responsible for P&L and building big data capabilities for Oil & Gas and Mining vertical",
-          "Drove data platform initiatives to help customers unlock value from business data",
-          "Led development of IOT-based New Energy product for optimal energy management between solar, battery, grid",
-          "Led innovation engineering team to rapidly build pilots and POCs for Oil & Gas, Utilities, Mining, Engineering/Construction and Airport customers"
+          "Built the **technical strategy** for Thoughtworks customers in South East Asia and providing **technology consulting** around Domain Driven Design, Event Driven Architecture, Microservices, Infrastructure resiliency and Zero-trust",
+          "Played interim role of **Head of Technology for an Indonesian startup** - set up hiring processes, talent management and platform technology architecture",
+          "Delivered a messaging platform (like Twilio) and campaign management data platform on AWS",
+          "Delivered service mesh and workload orchestration solution using **HashiCorp stack** for a large Indonesian telecom",
+          "Delivered microservices and event driven based order fulfillment system MVP for a SEA retail company leveraging **Kafka, NestJS**"
+        ]
+      },
+      {
+        "company": "Wipro Technologies",
+        "period": "Jul 2019 - Dec 2020",
+        "location": "Bengaluru, India",
+        "role": "Big Data Engineering Lead (Oil & Gas and Mining)",
+        "highlights": [
+          "Built big data capabilities for Oil & Gas and Mining verticals, primarily focused on **driving data platform initiatives** to help customers unlock value from business data",
+          "Drove Go-to-Market, Competency and Delivery for **Open Subsurface Data Universe (OSDU)** implementation on MS Azure platform"
+        ]
+      },
+      {
+        "company": "Wipro Technologies",
+        "period": "May 2016 - Jun 2019",
+        "location": "Bengaluru, India",
+        "role": "Head of Innovation Engineering (ENU)",
+        "highlights": [
+          "Led **development of a New Energy product** (Cognitive Energy Intelligence) for optimal energy management between solar, battery, grid. Delivered to a Netherlands based aggregator",
+          "Led an **innovation engineering team** to rapidly build pilots, POCs, projects for Oil & Gas, Utilities, Mining, Engineering/Construction and Airport customers"
         ]
       },
       {
         "company": "Accenture",
         "period": "Oct 2015 - May 2016",
         "location": "Bengaluru, India",
-        "role": "IDC O&G Upstream Industry Lead",
+        "role": "IDC Upstream Industry Head",
         "highlights": [
-          "Responsible for building competency, capabilities, solutions and assets in MES, Facility engineering & production",
-          "Anchored development of Industry offerings: Business Process Led Application Maintenance, Application Portfolio Optimization Toolkit, Video Analytics for Plant Inspection",
-          "Responsible for pre-sales and business development activities for new deals in Upstream"
+          "Built **solutions and assets in MES, Facility engineering & production**",
+          "Anchored development of Industry offerings: **Business Process Led Application Maintenance, Application Portfolio Optimization Toolkit, Video Analytics for Plant Inspection**",
+          "Responsible for pre-sales and business development activities for key new deals in Upstream"
         ]
       },
       {
         "company": "Wipro Technologies",
         "period": "Oct 2012 - Oct 2015",
         "location": "Bengaluru, India",
-        "role": "O&G Practice Lead",
+        "role": "Subsurface Engineering & Practice Lead",
         "highlights": [
-          "Led the subsurface practice - solution building, competency development, managing alliances/partnerships",
-          "Developed upstream solutions: Production Surveillance Dashboard, Reservoir Dashboard, Ocean plugins, Seismic Processing using stream analytics"
+          "Led **engineering of upstream solutions**: Production Surveillance Dashboard, Reservoir Dashboard, Ocean plugins, Seismic Processing using stream analytics",
+          "Led the subsurface practice responsible for competency development, formulating and managing alliances/partnerships"
         ]
       },
       {
         "company": "Infosys Technologies",
-        "period": "Feb 2003 - Oct 2012",
+        "period": "Nov 2006 - Oct 2012",
         "location": "Bengaluru, India",
-        "role": "Portfolio and Engineering Manager",
+        "role": "Portfolio and Senior Engineering Manager",
         "highlights": [
-          "Led key portfolios for major OFS to develop seismic data management, visualization and modeling products",
-          "Led development of products: Petrel Interpretation to Imaging, iExpeditor Seismic Data Management System, Multi-client Business Information system, Omega Seismic Processing Suite",
-          "Anchored MS Commerce Server Implementation and Eastman.com Redesign project"
+          "Led key portfolios for a major oil field services provider **developing seismic data management, visualization and modeling products**",
+          "Led development of **Petrel Interpretation to Imaging, iExpeditor Seismic Data Management System, Multi-client Business Information system, Omega Cluster Manager**",
+          "Responsible for setting up the portfolio offshore and **scaling the engineering team** from 2 to 70+"
+        ]
+      },
+      {
+        "company": "Infosys Technologies",
+        "period": "Feb 2003 - Oct 2006",
+        "location": "Bengaluru, India",
+        "role": "Engineering Lead, Business Analyst and Onsite Coordinator",
+        "highlights": [
+          "Anchored MS Commerce Server Implementation and Eastman.com Redesign project",
+          "Led development of Contracts Database, Technical Datasheet application and WYSIWYG Form Builder for Eastman.com"
         ]
       },
       {
@@ -77,7 +107,7 @@
         "location": "Mumbai, India",
         "role": "Senior Software Engineer",
         "highlights": [
-          "Developer and onsite coordinator for ASP to J2EE re-engineering project",
+          "Developer and onsite coordinator for ASP to J2EE re-engineering project for a German customer",
           "Developed modules for Customer Action Request Portal (CARe) for a Canadian municipality",
           "Created and maintained data conversion algorithms in C++/Flex for a large US publishing house"
         ]
@@ -90,30 +120,34 @@
       {
         "title": "Master of Technology, Data Science and Engineering",
         "institution": "BITS Pilani",
-        "year": "2021 - 2023"
+        "year": "2021 - 2023",
+        "gpa": "9.04",
+        "specialization": "ML, DL, Stream Processing, Big Data Systems"
       },
       {
         "title": "Advanced Post Graduate Diploma in Software Technology",
-        "institution": "C-DAC (NCST)",
-        "year": "2000 - 2002"
+        "institution": "C-DAC (NCST Mumbai)",
+        "year": "2000 - 2002",
+        "specialization": "Network Programming, Parallel Processing, Natural Language Technology, OO Analysis and Design"
       },
       {
         "title": "Post Graduate Diploma in Software Technology",
-        "institution": "C-DAC (NCST)",
-        "year": "1999 - 2000"
+        "institution": "C-DAC (NCST Mumbai)",
+        "year": "1999 - 2000",
+        "specialization": "Algorithms/Data Structures, Computer Organization, OS, Database Management, Computer Networks, OOP"
       },
       {
         "title": "Bachelor of Engineering, Mechanical Engineering",
-        "institution": "Vidyavardhini's College of Engineering and Technology",
-        "year": ""
+        "institution": "Mumbai University",
+        "year": "1998"
       }
     ]
   },
   "certifications": {
     "heading": "Certifications",
     "items": [
-      { "name": "Grokking System Design", "issuer": "", "period": "" },
-      { "name": "Engineering Management", "issuer": "", "period": "" }
+      { "name": "Certified Scrum Master", "issuer": "ScrumAlliance", "period": "2012 - 2021" },
+      { "name": "Project Management Professional", "issuer": "PMI", "period": "2011 - 2017" }
     ]
   },
   "initiatives": {
@@ -125,7 +159,11 @@
       },
       {
         "category": "Cultivation",
-        "details": "Sessions on AI for SDLC, Istio, Nomad, Consul, Event Driven Architecture, Building LLM Apps with RAG"
+        "details": "Sessions on AI for SDLC, Istio, Nomad, Consul, Event Driven Architecture, Building LLM Apps with RAG, Middleware Modernisation"
+      },
+      {
+        "category": "Startups",
+        "details": "Founding member of BackPackandGo (2009-2011) - adventure lovers platform. Founding member of Tutora (2020-2021) - mobile platform for the unorganized teaching sector in India"
       }
     ]
   }
